@@ -1,13 +1,13 @@
-# 👋 Привет
+# Привет
 
 
-## 🧠 Сейчас изучаю
+## Сейчас изучаю
 - Java OOP, Stream API
 - Spring Boot
 - PostgreSQL
 - Flutter (мобилки)
 
-## 🛠 Технологии
+## Технологии
 Java • Spring • PostgreSQL • Git • Docker 
 
 
